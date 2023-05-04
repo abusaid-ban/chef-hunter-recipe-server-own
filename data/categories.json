@@ -1,0 +1,50 @@
+[
+    { "id": "1",
+      "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "John Smith",
+      "experience": 10,
+      "recipes": 50,
+      "likes": 1000
+    },
+    {
+        "id": "2",
+      "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "Jane Doe",
+      "experience": 15,
+      "recipes": 75,
+      "likes": 2000
+    },
+    { 
+        "id": "3",
+      "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "David Lee",
+      "experience": 5,
+      "recipes": 20,
+      "likes": 500
+    },
+    { 
+        "id": "4",
+      "picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "Amy Chen",
+      "experience": 7,
+      "recipes": 35,
+      "likes": 800
+    },
+    {
+        "id": "5",
+      "picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "Michael Johnson",
+      "experience": 12,
+      "recipes": 60,
+      "likes": 1500
+    },
+    {
+        "id": "6",
+      "picture": "https://plus.unsplash.com/premium_photo-1661778029158-e1a758c26bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "name": "Laura Kim",
+      "experience": 3,
+      "recipes": 10,
+      "likes": 200
+    }
+  ]
+  
