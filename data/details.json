@@ -18,7 +18,9 @@
             "1 tbsp Dijon mustard"
         ],
         "method": "In a small bowl, whisk together the olive oil, soy sauce, brown sugar, Dijon mustard, and minced garlic.",
-        "rating": 4.5
+        "rating": 4.5,
+        "rating2": 6.5,
+        "rating3": 7.5
     },
     {
         "id": 2,
@@ -39,7 +41,9 @@
             "1 tbsp Dijon mustard"
         ],
         "method": " whisk together the olive oil, soy sauce, brown sugar, Dijon mustard",
-        "rating": 5.5
+        "rating": 5.5,
+        "rating2": 4.5,
+        "rating3": 6.5
     },
     {
         "id": 3,
@@ -60,7 +64,9 @@
             "1 tbsp Dijon mustard"
         ],
         "method": " whisk together the olive oil, soy sauce, brown sugar and minced garlic.",
-        "rating": 6.5
+        "rating": 6.5,
+        "rating2": 4.5,
+        "rating3": 5.5
     },
     {
         "id": 4,
@@ -81,7 +87,9 @@
             "1 tbsp Dijon mustard"
         ],
         "method": " small bowl, whisk together the olive oil, soy sauce, Dijon mustard, and minced garlic,brown sugar.",
-        "rating": 7.5
+        "rating": 7.5,
+        "rating2": 4.5,
+        "rating3": 6.5
     },
     {
         "id": 5,
@@ -102,7 +110,9 @@
             "1 tbsp Dijon mustard"
         ],
         "method": "In a brown sugar small bowl, whisk together the olive oil, soy sauce, brown sugar, Dijon mustard, and minced garlic,whisk together the olive oil.",
-        "rating": 5.5
+        "rating": 5.5,
+        "rating2": 4.5,
+        "rating3": 6.5
     },
     {
         "id": 6,
@@ -124,6 +134,8 @@
             "1 tbsp Dijon mustard"
         ],
         "method": " Dijon mustard,In a small bowl, whisk together the olive oil, brown sugar,  and minced garlic,soy sauce.",
-        "rating": 4.5
+        "rating": 6.5,
+        "rating2": 4.5,
+        "rating3": 5.5
     }
 ]
