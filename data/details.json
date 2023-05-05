@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "John Smith",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 1000,
+        "bio": "John Smith is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Mixed Berry Tart",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": "In a small bowl, whisk together the olive oil, soy sauce, brown sugar, Dijon mustard, and minced garlic.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "Jane Doe",
+        "experience": 15,
+        "recipes": 75,
+        "likes": 2000,
+        "bio": "Jane Doe is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Chicken",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": " whisk together the olive oil, soy sauce, brown sugar, Dijon mustard",
+        "rating": 5.5
+    },
+    {
+        "id": 3,
+        "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "David Lee",
+        "experience": 5,
+        "recipes": 20,
+        "likes": 500,
+        "bio": "David Lee is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Burger",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": " whisk together the olive oil, soy sauce, brown sugar and minced garlic.",
+        "rating": 6.5
+    },
+    {
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "Amy Chen",
+        "experience": 7,
+        "recipes": 35,
+        "likes": 800,
+        "bio": "Amy Chen is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Pizza",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": " small bowl, whisk together the olive oil, soy sauce, Dijon mustard, and minced garlic,brown sugar.",
+        "rating": 7.5
+    },
+    {
+        "id": 5,
+        "picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "Michael Johnson",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 1500,
+        "bio": "Michael Johnson is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Mixed Berry Tart",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": "In a brown sugar small bowl, whisk together the olive oil, soy sauce, brown sugar, Dijon mustard, and minced garlic,whisk together the olive oil.",
+        "rating": 5.5
+    },
+    {
+        "id": 6,
+        "picture": "https://plus.unsplash.com/premium_photo-1661778029158-e1a758c26bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "name": "Laura Kim",
+        "experience": 3,
+        "recipes": 10,
+        "likes": 200,
+        "bio": "Laura Kim is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
+        "recipe_name": "Mixed Berry Tart",
+        "ingredients": [
+            "1 lb salmon fillet",
+            "1/4 cup olive oil",
+            "2 tbsp soy sauce",
+            "2 tbsp brown sugar",
+            "1 tbsp Dijon mustard"
+        ],
+        "method": " Dijon mustard,In a small bowl, whisk together the olive oil, brown sugar,  and minced garlic,soy sauce.",
+        "rating": 4.5
+    }
+]
