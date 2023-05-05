@@ -8,6 +8,8 @@
         "likes": 1000,
         "bio": "John Smith is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
         "recipe_name": "Mixed Berry Tart",
+        "recipe_name2": "Biriany",
+        "recipe_name3": "Chicken Polao",
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
@@ -27,6 +29,8 @@
         "likes": 2000,
         "bio": "Jane Doe is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
         "recipe_name": "Chicken",
+        "recipe_name2": "Kacchi",
+        "recipe_name3": "Roast",
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
@@ -46,6 +50,8 @@
         "likes": 500,
         "bio": "David Lee is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
         "recipe_name": "Burger",
+        "recipe_name2": "Polao",
+        "recipe_name3": "pizza",
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
@@ -65,6 +71,8 @@
         "likes": 800,
         "bio": "Amy Chen is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
         "recipe_name": "Pizza",
+        "recipe_name2": "Chicken",
+        "recipe_name3": "Beef curry",
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
@@ -83,7 +91,9 @@
         "recipes": 60,
         "likes": 1500,
         "bio": "Michael Johnson is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
-        "recipe_name": "Mixed Berry Tart",
+        "recipe_name": "Chicken",
+        "recipe_name2": "Mixed Berry Tart",
+        "recipe_name3": "polao",
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
@@ -102,7 +112,10 @@
         "recipes": 10,
         "likes": 200,
         "bio": "Laura Kim is a passionate chef who loves to cook delicious meals using fresh, locally-sourced ingredients. He has been in the culinary industry for over 10 years and is known for his unique flavor combinations and creative plating techniques.",
-        "recipe_name": "Mixed Berry Tart",
+        "recipe_name": "Mixed Beef curry",
+        "recipe_name2": "Mixed Berry Tart",
+        "recipe_name3": "Chicken Polao",
+        
         "ingredients": [
             "1 lb salmon fillet",
             "1/4 cup olive oil",
